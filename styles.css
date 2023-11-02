@@ -457,6 +457,22 @@ a {
   padding: 2em;
   transition: transform 0.4s linear;
 }
+
+#project0 {
+  background-image: url(images/projects/playtube.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position: center; */
+}
+
+#project01 {
+  background-image: url(images/projects/news.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position: center; */
+  align-self: flex-end;
+}
+
 #project1 {
   background-image: url(images/projects/Swiggy_App_frontpage.png);
   background-size: cover;
