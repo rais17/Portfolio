@@ -458,6 +458,14 @@ a {
   transition: transform 0.4s linear;
 }
 
+#project001 {
+  background-image: url(images/projects/NetflixGPT.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position: center; */
+  align-self: flex-end;
+}
+
 #project0 {
   background-image: url(images/projects/playtube.png);
   background-size: cover;
